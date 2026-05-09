@@ -1,0 +1,10 @@
+numpy
+matplotlib
+jupyter
+ipykernel
+scipy
+scikit-learn
+sympy
+
+
+

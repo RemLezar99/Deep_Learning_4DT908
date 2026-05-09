@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+
+numpy
+matplotlib
+scikit-learn
+jupyter
+notebook
+ipykernel
+tqdm
+
+
+

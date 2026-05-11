@@ -1,4 +1,4 @@
-# Variants of Stochastic Gradient-Based Optimization
+# Convolutional Neural Networks for Digital Image Classification
 
 ---
 

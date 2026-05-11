@@ -1,4 +1,9 @@
+# Environment
+venv/
+
+# Local datasets
 data/
+
 *.pt
 *.pth
 __pycache__/

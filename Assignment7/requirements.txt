@@ -1,0 +1,11 @@
+numpy
+matplotlib
+scikit-learn
+jupyter
+notebook
+ipykernel
+tqdm
+torch
+
+
+
